@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.spendrax.bookshelf",
+    "sha256_cert_fingerprints": ["DD:58:84:02:C3:8E:66:2D:4E:97:B4:7F:19:FD:8A:BA:D1:E2:B5:43:7F:59:25:C0:27:78:8D:40:A9:8D:BE:54"]
+  }
+}]
